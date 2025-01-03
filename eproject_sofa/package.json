@@ -1,0 +1,14 @@
+{
+  "name": "eproject_sofa",
+  "version": "1.0.0",
+  "description": "sofa web design",
+  "main": "index.js",
+  "build": "next build",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
