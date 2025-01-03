@@ -1,14 +1,14 @@
 {
-  "name": "eproject_sofa",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "sofa web design",
-  "main": "index.js",
-  "build": "next build",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "next": "^12.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
 }
-
-
